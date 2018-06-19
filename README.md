@@ -1,1 +1,2 @@
-# Arquivos da disciplina RIWRS do curso de Pós Graduação da PUC-MG
+# RIWRS
+Arquivos da disciplina RIWRS do curso de Pós Graduação da PUC-MG
